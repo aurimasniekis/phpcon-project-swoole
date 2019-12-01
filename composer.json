@@ -7,6 +7,7 @@
         "ext-iconv": "*",
         "doctrine/doctrine-fixtures-bundle": "^3.3",
         "guzzlehttp/guzzle": "^6.4",
+        "k911/swoole-bundle": "^0.7.3",
         "sensio/framework-extra-bundle": "^5.5",
         "symfony/console": "5.0.*",
         "symfony/dotenv": "5.0.*",
